@@ -8,12 +8,12 @@ Step 1: Data Collection and Extraction:
 
 Step 2: Data Loading and Transformation:
     • Select and load data into Power BI.
-    • Access Power Query Editor to clean data, remove duplicates to ensure data integrity and adjust data types as needed for accuracy.
+    • Access Power Query Editor to clean data, remove duplicates to ensure data integrity, and adjust data types as needed for accuracy.
 
 Step 3: Data Modeling
 
     • Establish relationships between tables if applicable.
-    • Create calculated columns or measures for key metrics like total       revenue, total boxes cold, country with most sales etc.
+    • Create calculated columns or measures for key metrics like total revenue, total boxes cold, a country with the most sales, etc.
 
 Step 4: Data Exploration and Visualization
 
