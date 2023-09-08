@@ -1,24 +1,3 @@
 # SalesDashboardProject
 The Sales Dashboard Data Analyst Project involved the utilization of SQL for data processing and Power BI for creating a comprehensive sales dashboard. This project aimed to provide actionable insights and visualizations to support decision-making within the sales department.
 
-Key Steps:
-
-Step 1: Data Collection and Extraction:
-    • Acquired raw sales data from various sources.
-    • Employed SQL queries to extract relevant information/insights, ensuring data integrity and accuracy.
-
-Step 2: Data Loading and Transformation:
-    • Select and load data into Power BI.
-    • Access Power Query Editor to clean data and remove duplicates to ensure data integrity and adjust data types as needed for accuracy.
-
-Step 3: Data Modeling
-    • Establish relationships between tables if applicable.
-    • Create calculated columns or measures for key metrics like total revenue, total boxes, the country with the most sales, etc.
-
-Step 4: Data Exploration and Visualization
-    • Utilize visuals like tables, matrices, and cards to display metrics.
-    • Enhance interactivity with slicers for dynamic filtering.
-    • Visualize insights with charts and graphs:
-      	- Line charts for sales trends.
-      	- Bar/column charts for comparisons.
-      	- Pie charts for percentage distributions.
